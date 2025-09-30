@@ -34,7 +34,7 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kale-Sudhir&show_icons=true&theme=tokyonight" alt="Sudhir's GitHub stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kale-Sudhir&show_icons=true&count_private=true&theme=tokyonight&cache_seconds=1800&v=1&token=PAT_1" alt="Sudhir's GitHub stats" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kale-Sudhir&theme=tokyonight" alt="GitHub streak stats" height="160"/>
 </p>
 
@@ -49,7 +49,7 @@
 
 ### 📈 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kale-Sudhir&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kale-Sudhir&layout=compact&theme=tokyonight&count_private=true&cache_seconds=1800&v=1&token=PAT_1" alt="Top Languages"/>
 </p>
 
 ---
