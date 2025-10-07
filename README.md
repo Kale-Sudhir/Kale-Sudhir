@@ -5,7 +5,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 💼 Currently working as a **Front-End Developer Intern** at **OneGreenDiary Software Pvt. Ltd.**
+- 💼 Currently working as a **Front-End Developer** at **OneGreenDiary Software Pvt. Ltd.**
 - 🌱 Exploring the **MERN stack** and **state management in Angular**.
 - 🛠️ Experienced in **React.js, Next.js, Tailwind CSS, Angular, Node.js, and PHP**.
 - 🎓 Created a **C Language Course** on Udemy.
