@@ -10,7 +10,7 @@
 - 🛠️ Experienced in **React.js, Next.js, Tailwind CSS, Angular, Node.js, and PHP**.
 - 🎓 Created a **C Language Course** on Udemy.
 - 💡 Passionate about building **dynamic, scalable, and responsive web applications**.
-- ✨ Always curious about **UI/UX animations, and clean component structures**.
+
 
 ---
 
