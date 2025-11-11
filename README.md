@@ -47,15 +47,7 @@
 
 ---
 
-### 📈 Most Used Languages
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Kale-Sudhir&show_icons=true&count_private=true&theme=tokyonight&cache_seconds=1800&v=2&token=PAT_1" />
-
-</p>
-
----
-
-### 📫 Connect with Me
+ ### 📫 Connect with Me
 - 🌐 Portfolio: [sudhirkale.vercel.app](https://sudhirkale.vercel.app/)  
 - 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/sudhir-kale/)  
 - 💻 GitHub: [github.com/Kale-Sudhir](https://github.com/Kale-Sudhir)  
