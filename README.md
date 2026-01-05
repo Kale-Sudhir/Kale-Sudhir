@@ -16,7 +16,7 @@
 
 ### 🛠️ Tech Stack
 - **Frontend:** React.js, Next.js, Angular, JavaScript, TypeScript, Tailwind CSS, Bootstrap  
-- **Backend:** Node.js, PHP, Appwrite  
+- **Backend:** Node.js, PHP, Appwrite  (Learning)
 - **Databases:** MongoDB, MySQL  
 - **Tools:** Git, GitHub, Plesk, cPanel  
 - **Other:** REST APIs, Dynamic UI/UX Design  
