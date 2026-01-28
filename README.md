@@ -8,7 +8,6 @@
 - 💼 Front-End Developer at **OneGreenDiary Software Pvt. Ltd., Pune**
 - 🌱 Currently learning **MERN Stack** & **Advanced Angular State Management**
 - 🛠️ Strong experience with **React, Next.js, Angular, Tailwind CSS**
-- 🎓 Created a **C Programming Course** on Udemy
 - 💡 I love building **scalable, responsive & user-focused web applications**
 
 ---
