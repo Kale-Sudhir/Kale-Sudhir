@@ -42,26 +42,40 @@
 ---
 
 ## 📊 GitHub Stats
-> ⚠️ Fixed visibility issue by removing invalid token & params
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kale-Sudhir&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kale-Sudhir&theme=tokyonight&hide_border=true" height="160"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Kale-Sudhir&show_icons=true&theme=tokyonight&hide_border=true"
+    height="165"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Kale-Sudhir&theme=tokyonight&hide_border=true"
+    height="165"
+  />
 </p>
+
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kale-Sudhir&theme=tokyo-night&hide_border=true"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Kale-Sudhir&theme=tokyo-night&hide_border=true"
+  />
 </p>
+
 
 ---
 
 ## 🏆 GitHub Achievements
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kale-Sudhir&theme=tokyonight&no-frame=true&margin-w=10" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Kale-Sudhir&theme=tokyonight&no-frame=true&margin-w=15"
+  />
 </p>
+
 
 ---
 
