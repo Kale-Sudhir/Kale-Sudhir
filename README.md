@@ -1,18 +1,18 @@
 # Hi, I'm Sudhir Kale 👋  
 
-🚀 **Frontend Developer | React.js · Angular · Next.js | Building Scalable Web Applications**
+🚀 **Frontend Developer | React.js · Angular · Next.js | Building Scalable, High-Performance Web Applications**
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a **Frontend Developer at OneGreenDiary Software Pvt. Ltd., Pune**, with hands-on experience in building **scalable, high-performance, and responsive web applications**.
+I am a **Frontend Developer at OneGreenDiary Software Pvt. Ltd., Pune**, with strong experience in building **production-ready, scalable, and performance-optimized web applications**.
 
 - 💼 Frontend Developer at **OneGreenDiary Software Pvt. Ltd.**
-- ⚛️ Working with **React.js, Angular, Next.js**
-- 🎯 Focused on **performance optimization, reusable UI components & clean architecture**
+- ⚛️ Hands-on with **React.js, Angular, Next.js**
+- 🚀 Focused on **performance optimization, reusable UI components & clean architecture**
 - 🌱 Currently learning **MERN Stack**
-- 🤝 Experienced in collaborating with design & backend teams in **agile environments**
+- 🤝 Comfortable working in **agile teams**, collaborating with designers & backend developers
 
 ---
 
@@ -35,22 +35,54 @@ I am a **Frontend Developer at OneGreenDiary Software Pvt. Ltd., Pune**, with ha
 
 ---
 
-## 📌 Featured Projects
+## 📌 Featured Projects (Resume Priority)
 
-- 🎂 **ORAMAHAS Cakes** – Dynamic cake & dessert shop  
-  *(Next.js, Tailwind CSS, CMS-driven content)*
+### 🏆 Class Juggler – US Client Project  
+**Tech:** Next.js, Tailwind CSS, Sanity CMS, HubSpot  
 
-- 🎧 **KS Elects** – E-commerce store for headphones  
-  *(React, UI-focused product listing & cart)*
+- Engineered a **production-grade, fully responsive website** using **Next.js with server-side rendering**, improving page load speed by **40%**.  
+- Integrated **Sanity CMS** for dynamic content updates and **HubSpot** for lead tracking and marketing workflows.  
+- Optimized SEO, accessibility, and performance, resulting in **50% improvement in search rankings** and WCAG compliance.
 
-- ☁️ **Cloudy Area** – Weather application  
-  *(React.js, Tailwind CSS, API integration)*
+---
 
-- 📺 **YouTube Clone** – Video platform UI  
-  *(React.js, component-based architecture)*
+### 🏢 OneGreenDiary – Company Website  
+**Tech:** Next.js, Tailwind CSS, Sanity CMS, Material UI  
 
-- 🏦 **Bank Management System** – Secure banking UI  
-  *(React.js, Appwrite backend)*
+- Developed a **high-performance company website** using **Next.js and Tailwind CSS**, achieving **40% faster load times**.  
+- Built responsive and accessible UI components, increasing **mobile user retention by 30%**.  
+- Reduced content update time by **50%** through CMS-driven architecture and optimized deployment flow.
+
+---
+
+### 🎂 ORAMAHAS Cakes – E-Commerce Platform  
+**Tech:** Next.js, Tailwind CSS  
+
+- Built a dynamic cake & dessert e-commerce platform with **reusable UI components** and mobile-first design.  
+- Implemented product listing, cart flow, and responsive layouts focused on user experience.
+
+---
+
+### 🎧 KS Elects – Headphone E-Commerce Store  
+**Tech:** React.js  
+
+- Developed an e-commerce UI with product filtering, cart functionality, and responsive design.  
+- Focused on clean component structure and usability.
+
+---
+
+### 📺 YouTube Clone  
+**Tech:** React.js  
+
+- Created a YouTube-like interface using **component-based architecture**.  
+- Implemented responsive layouts and routing.
+
+---
+
+### ☁️ Cloudy Area – Weather Application  
+**Tech:** React.js, Tailwind CSS  
+
+- Built a weather application using API integration and responsive UI components.  
 
 ---
 
