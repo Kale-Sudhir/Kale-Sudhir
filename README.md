@@ -114,7 +114,7 @@ I am a **Frontend Developer at OneGreenDiary Software Pvt. Ltd., Pune**, with st
 ## 📫 Connect With Me
 
 <p>
-  <a href="https://sudhir-kale.vercel.app">
+  <a href="https://sudhirkale.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/sudhir-kale/">
